@@ -673,3 +673,18 @@ figure.effect-bubba:hover p {
     padding: 50px 30px;
   }
 }
+
+
+/* CUSTOM CSS BY SARA */
+
+.mb-5 {
+  margin-bottom: 0rem!important; 
+}
+
+#education {
+  padding-bottom: 1rem;
+}
+
+#aboutme {
+  padding-bottom: 1rem;
+}
