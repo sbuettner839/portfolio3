@@ -80,7 +80,7 @@ a {
 }
 
 .tm-brand {
-  font-size: 2.6rem;
+  font-size: 2rem;
 }
 
 .tm-brand-box {
@@ -113,7 +113,7 @@ a {
 }
 
 .tm-brand {
-  padding: 30px;
+  padding: 30px 30px 40px 30px;
 }
 
 .tm-sidebar {
