@@ -692,3 +692,49 @@ figure.effect-bubba:hover p {
 #MSA {
  margin-top: 5rem;
 }
+
+i {
+  font-size: 4rem;
+  margin: 15px;
+  padding-top: 10px;
+}
+
+.tm-bg-white-transparent {
+  background-color: rgba(255, 255, 255, 0.7);
+}
+
+/* .tm-flex-item-left {
+  align-self: center;
+}
+
+.tm-flex-item-left i {
+  align-self: center;
+}
+
+.tm-w-80 > h2 {
+  justify-content: center;
+  text-align: center;
+}
+
+.tm-w-80 > p {
+  justify-content: center;
+  text-align: center;
+} */
+
+.tm-section-wrap #clients{
+  align-items: center;
+  text-align: center;
+}
+.tm-section-wrap .row {
+  display: block;
+}
+
+/* #clients {
+  align-items: center;
+  text-align: center;
+} */
+
+#talk {
+  justify-content: center;
+  text-align: center;
+}
