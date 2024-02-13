@@ -154,14 +154,14 @@ button::-moz-focus-inner {
   padding-right: 6px;
   width: 100%; }
 
-.mfp-counter {
+/* .mfp-counter {
   position: absolute;
   top: 0;
   right: 0;
   color: #CCC;
   font-size: 12px;
   line-height: 18px;
-  white-space: nowrap; }
+  white-space: nowrap; } */
 
 .mfp-arrow {
   position: absolute;
@@ -276,13 +276,13 @@ img.mfp-img {
   .mfp-figure figure {
     margin: 0; }
 
-.mfp-bottom-bar {
+/* .mfp-bottom-bar {
   margin-top: -36px;
   position: absolute;
   top: 100%;
   left: 0;
   width: 100%;
-  cursor: auto; }
+  cursor: auto; } */
 
 .mfp-title {
   text-align: left;
